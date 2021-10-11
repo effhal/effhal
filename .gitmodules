@@ -1,0 +1,4 @@
+[submodule "effhal.github.io"]
+	path = effhal.github.io
+	url = https://github.com/effhal/effhal.github.io.git
+	branch = main
